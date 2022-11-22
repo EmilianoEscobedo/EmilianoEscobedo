@@ -4,3 +4,5 @@ On the way to becoming a software engineer, starting right from the bottom, curi
 - 👀 I’m interested in collaborating on open source projects
 - 🌱 I’m currently learning backend technologies and design patterns 
 - 📫 How to reach me <a href=https://www.linkedin.com/in/emiliano-escobedo/>  LinkedIn <a> | <a href=https://twitter.com/EmiTheDev_/>  Twitter <a>
+
+[![@emilianoescobedo's Holopin board](https://holopin.me/emilianoescobedo)](https://holopin.io/@emilianoescobedo)
