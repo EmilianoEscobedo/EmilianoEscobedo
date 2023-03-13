@@ -7,11 +7,8 @@ On the way to becoming a software engineer, starting right from the bottom, curi
 - 📫 How to reach me <a href=https://www.linkedin.com/in/emiliano-escobedo/>  LinkedIn <a> | <a href=https://twitter.com/EmiTheDev_/>  Twitter <a>
   <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilianoescobedo&show_icons=true&locale=en&layout=compact" alt="emilianoescobedo" /><br><br>
-  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emilianoescobedo&show_icons=true&locale=en" alt="emilianoescobedo" /><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilianoescobedo&" alt="emilianoescobedo" />
-  </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoEscobedo&theme=dracula&hide_border=true&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmilianoEscobedo&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
 
