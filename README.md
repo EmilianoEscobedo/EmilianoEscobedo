@@ -6,9 +6,9 @@ On the way to becoming a software engineer, starting right from the bottom, curi
 - 🌱 I’m currently learning <strong>backend technologies and design patterns</strong>
 - 📫 How to reach me <a href=https://www.linkedin.com/in/emiliano-escobedo/>  LinkedIn <a> | <a href=https://twitter.com/EmiTheDev_/>  Twitter <a>
   <br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilianoescobedo&show_icons=true&locale=en&layout=compact" alt="emilianoescobedo" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilianoescobedo&show_icons=true&locale=en&layout=compact" alt="emilianoescobedo" /><br><br>
   <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emilianoescobedo&show_icons=true&locale=en" alt="emilianoescobedo" /><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emilianoescobedo&show_icons=true&locale=en" alt="emilianoescobedo" /><br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilianoescobedo&" alt="emilianoescobedo" />
   </div>
 
