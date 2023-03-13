@@ -1,6 +1,7 @@
-## 👋 Hi, I’m Emiliano Escobedo
+## 👋 Hi there, I’m Emiliano Escobedo
 On the way to becoming a software engineer, starting right from the bottom, curiosity and the desire to learn more and more brought me here. <br> My dream is to create quality software that improves people's lives in collaboration with others.
 <br>
+- 🌎 I'm from Argentina. Native Spanish and French speaker, and proficient in English (C1).
 - 🔭 I’m currently working on [Frello Manager](https://github.com/EmilianoEscobedo/FrelloManager)
 - 👀 I’m interested in collaborating on <strong>open source projects</strong>
 - 🌱 I’m currently learning <strong>backend technologies and design patterns</strong>
