@@ -8,7 +8,7 @@ On the way to becoming a software engineer, starting right from the bottom, curi
   <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilianoescobedo&show_icons=true&locale=en&layout=compact" alt="emilianoescobedo" /></p>
   <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emilianoescobedo&show_icons=true&locale=en" alt="emilianoescobedo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emilianoescobedo&show_icons=true&locale=en" alt="emilianoescobedo" /><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilianoescobedo&" alt="emilianoescobedo" />
   </div>
 
