@@ -13,7 +13,7 @@ On the way to becoming a software engineer, starting right from the bottom, curi
   </div>
 
 
-<br><br>
+<br>
 
 
 
