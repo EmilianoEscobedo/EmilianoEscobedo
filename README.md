@@ -4,9 +4,9 @@
 
 - 🌎 I'm from Argentina. Native Spanish and French speaker, and proficient in English (C1).
 - 👩‍💻 On the way to becoming a software engineer, starting right from the bottom, curiosity and the desire to learn more and more brought me here. My dream is to create quality software that improves people's lives in collaboration with others.
-- 🔭 I’m currently working on [Frello Manager](https://github.com/EmilianoEscobedo/FrelloManager).
 - 🌱 I’m currently learning <strong>backend technologies and design patterns.</strong>
-- 📫 You can reach me at **emilianoescobedo9@gmail.com**
+- 📄 If you'd like to find out more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/belenfernandezn/?locale=en_US).
+- 📫 Or you can reach me at **emilianoescobedo9@gmail.com**
 
 <h2 />
 <h3 align="left">Programming Lenguages</h3>
@@ -24,7 +24,9 @@
 <p align="left">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
