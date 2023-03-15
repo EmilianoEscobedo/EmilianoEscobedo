@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I’m Emiliano Escobedo</h1>
+<h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>, I’m Emiliano Escobedo</h1>
 <h3 align="center"><i>A software developer passionate about coding, language and knowledge</i></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emilianoescobedo&label=Profile%20views&color=0e75b6&style=flat" alt="emilianoescobedo" /> </p>
 
