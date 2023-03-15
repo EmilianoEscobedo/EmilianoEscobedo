@@ -7,12 +7,6 @@
 - 🔭 I’m currently working on [Frello Manager](https://github.com/EmilianoEscobedo/FrelloManager).
 - 🌱 I’m currently learning <strong>backend technologies and design patterns.</strong>
 - 📫 You can reach me at **emilianoescobedo9@gmail.com**
-  
-<h3 align="center">Connect With Me!</h3>
-<p align="center">
-	<a href="https://www.linkedin.com/in/emiliano-escobedo/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emiliano escobedo" height="30" width="40" /></a>
-	<a href="https://twitter.com/EmiTheDev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="emilianoescobedo" height="30" width="40" /></a>
-</p>
 
 <h2 />
 <h3 align="left">Programming Lenguages</h3>
@@ -49,7 +43,11 @@
 </p>
 <h2 />
 <h2 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilianoescobedo&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="emilianoescobedo" /><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoEscobedo&theme=dracula&hide_border=true&show_icons=true)<br>
   
+<h3 align="center">Connect With Me!</h3>
+<p align="center">
+	<a href="https://www.linkedin.com/in/emiliano-escobedo/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emiliano escobedo" height="30" width="40" /></a>
+	<a href="https://twitter.com/EmiTheDev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="emilianoescobedo" height="30" width="40" /></a>
+</p>
