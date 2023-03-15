@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emilianoescobedo&label=Profile%20views&color=0e75b6&style=flat" alt="emilianoescobedo" /> </p>
 
 - 🌎 I'm from Argentina. Native Spanish and French speaker, and proficient in English (C1).
-- 👩‍💻 On the way to becoming a software engineer, starting right from the bottom, curiosity and the desire to learn more and more brought me here. My dream is to create quality software that improves people's lives in collaboration with others.
+- 👩‍💻 I'm on the path to becoming a software engineer, starting from scratch, and my insatiable curiosity has brought me to where I am now. My ultimate goal is to work with others to create top-notch software that makes a real difference in people's lives.
 - 🌱 I’m currently learning <strong>backend technologies and design patterns.</strong>
 - 📄 If you'd like to find out more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/belenfernandezn/?locale=en_US).
 - 📫 Or you can reach me at **emilianoescobedo9@gmail.com**
